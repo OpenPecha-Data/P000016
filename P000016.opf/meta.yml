@@ -1,0 +1,41 @@
+ebook_metadata:
+  title: ༄༅། །ཆོས་ཀྱི་རྗེ་ཀརྨ་ཕྲིན་ལས་པའི་གསུང་འབུམ་ལས། རྡོ་རྗེ་མགུར་གྱི་ཕྲེང་བ་རྣམས་དང་།
+    ཐུན་མོང་བའི་དྲིས་ལན་གྱི་ཕྲེང་བ་རྣམས་བཞུགས་སོ། །
+  authors:
+  - མཛད་པ་པོ། ཀརྨ་ཕྲིན་ལས་པ།
+  sku: VVI-009
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - quotation
+  - sabche
+  - yigchung
+web_metadata:
+  title:
+    en: Collected Works of Karma Thinley on A Rosary of Vajra Song and General Questions
+      and Answers
+    bo: ཆོས་ཀྱི་རྗེ་ཀརྨ་ཕྲིན་ལས་པའི་གསུང་འབུམ་ལས། རྡོ་རྗེ་མགུར་གྱི་ཕྲེང་བ་རྣམས་དང་།
+      ཐུན་མོང་བའི་དྲིས་ལན་གྱི་ཕྲེང་བ་རྣམས་བཞུགས་སོ།།
+  collection:
+    en: Vajra Vidya Institute Library–  Book 9
+    bo: བཛྲ་བིདྱཱ་དཔེ་མཛོད་ཁང་།–  དེབ། ༩
+  author:
+    en: Karma Thinleypa
+    bo: ཀརྨ་ཕྲིན་ལས་པ།
+  pusblisher:
+    en: Vajra Vidya Institute
+    bo: བཛྲ་བིདྱཱ་གཙུག་ལག་སློབ་གཉེར་ཁང་།
+  sku: VVI-009
+  category:
+    en: Spiritual Songs
+    bo: མགུར།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: VVI-009.epub
+  description:
+    en: ''
+    bo: ''

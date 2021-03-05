@@ -1,9 +1,10 @@
-ebook_metadata:
+id: P000016
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །ཆོས་ཀྱི་རྗེ་ཀརྨ་ཕྲིན་ལས་པའི་གསུང་འབུམ་ལས། རྡོ་རྗེ་མགུར་གྱི་ཕྲེང་བ་རྣམས་དང་།
     ཐུན་མོང་བའི་དྲིས་ལན་གྱི་ཕྲེང་བ་རྣམས་བཞུགས་སོ། །
   authors:
   - མཛད་པ་པོ། ཀརྨ་ཕྲིན་ལས་པ།
-  sku: VVI-009
   layers:
   - book_title
   - author
@@ -11,6 +12,7 @@ ebook_metadata:
   - quotation
   - sabche
   - yigchung
+  id: VVI-009
 web_metadata:
   title:
     en: Collected Works of Karma Thinley on A Rosary of Vajra Song and General Questions
